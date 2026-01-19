@@ -1,6 +1,6 @@
 # Schema - Deep learning (AI25)
 
-| Vecka |     Tisdag (distans)      |          Torsdag           |          Fredag (distans)          |
+| Vecka |     Tisdag      |          Torsdag           |          Fredag (distans)          |
 | :---: | :-----------------------: | :-----------------------: | :-----------------------: |
 | 2 | - | <b>9:15-12</b> L6 Reinforcement Learning <b>13-15</b> Seminarium (visning av video)| <b>9:15-12</b> Handledning <b>13-15</b> Handledning |
 | 3 | <b>9:15-12</b> L7 LLMs <b>13-15</b> Handledning | <b>9:15-12</b> L8 Interpretability LLMs <b>13-15</b> Seminarium (diskussion om circuits) | <b>9:15-12</b> Handledning <b>13-15</b> Handledning |
